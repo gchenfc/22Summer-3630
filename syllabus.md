@@ -11,7 +11,7 @@ Upon completion of this course, students will be able to:
 * Describe mathematically the position and orientation of objects and how they move 
 * Develop a control architecture for a mobile robotic system 
 * Implement navigation and localization algorithms based on sensor fusion and environment representation 
-* Write moderately involved programs in Python and Java to control a robotic system 
+* Write moderately involved programs in Python to control a robotic system 
 * Construct, program, and test the operation of a robotic system to perform a specified task
 
 ### Prerequisites
@@ -25,10 +25,10 @@ The course requires access to a laptop.  If you don’t have access to a laptop,
 
 ### Lecture Delivery and Grading Components
 
-**Important: You cannot take this class unless you can make the regularly scheduled class periods at 3.30pm**.
+**Important: You cannot take this class unless you can make the regularly scheduled class periods at 3:30pm**.
 
-- **Lectures** will be **live** on Microsoft Teams! You have already been added to the Team for this class. Please email us if you are unable to access it from your GT Teams account. 
-- **Questionnaires**: To reinforce the lecture and prepare for class time, the students will be required to answer a short questionnaire on Canvas about the two lectures from the preceding week. We shall release the questionnaires every Thursday and you'll have until Sunday night to complete them. This will count for **10%** of your grade. We anticipate about 11-12 questionnaires throughout the semester. 
+- **Lectures** will be **live** and **in person** in Klaus 2447! Please email me if you would like virtual accomodations.
+- **Participation**: You will be required to complete a participation questionnaire each class.  You can miss up to 3 of the 18 lectures without penalty.  This will count for **10%** of your grade.
 - **Quizzes**: there will be 6 modules, as indicated on the schedule. At the end of each module, there will be an online quiz worth 6% of your grade each, for a total of **30%** (we will pick the best 5 out of 6). Quizzes will have a combination of multiple choice and short essay questions, as appropriate.
 - **Projects**: Project deliverables are the most significant component of this course and will make up **60%** of your final grade. There will be 6 projects based on the 6 modules, and you will submit your code and reports on gradescope. <!-- each project will additionally have a powerpoint template that will have to be submitted on Gradescope as a pdf and, possibly accompanied with code and/or videos. --> <!-- Project are released and are due on Fridays, and p -->
 
@@ -37,7 +37,7 @@ The grading distribution is:
 
 | Component      | Nr. | Grade | Total |
 |----------------|-----|-------|-------|
-| Questionnaires | -   |  -    |  10%  |
+| Questionnaires | 15  | 0.67% |  10%  |
 | Quizzes        | 5   | 6%    |  30%  |
 | Projects       | 6   | 10%   |  60%  |
 |                |     |       | 100%  |
@@ -45,6 +45,8 @@ The grading distribution is:
 ### Project Late Policy
 
 The late policy for projects is to linearly decrease the maximum score from 100 to 0, starting at the submission deadline (Friday, 23:59:59) and ending the following Monday, 23:59:59.  Thus, the maximum possible score decreases continuously from 100 to zero over the 72 hour period following the submission deadline (e.g., if you submit your project exactly 29 hours and 30 minutes late, you would have a maximum possible score of 59.02777777777778%).
+
+Late questionnaires and quizzes will not be accepted.
 
 ### Academic Integrity
 Academic dishonesty will not be tolerated. This includes cheating, lying about course matters, plagiarism, or helping others commit a violation of the Honor Code. Plagiarism includes reproducing the words of others without both the use of quotation marks and citation. Students are reminded of the obligations and expectations associated with the Georgia Tech Academic Honor Code and Student Code of Conduct, available online at www.honor.gatech.edu. 
