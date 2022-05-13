@@ -19,8 +19,8 @@ The only formal prerequisite is CS1332 Data Structures & Algorithms. Prior knowl
 The course requires access to a laptop.  If you don’t have access to a laptop, please contact the instructor ASAP.  All programming assignments will be completed in Python.
 
 ### Important Links:
-* [Piazza!](https://piazza.com/class/kxtmafdutrp43f) This should be your first stop for questions and announcements. 
-* [Gradescope](https://www.gradescope.com/courses/349667) is where you will submit projects. It is also available from the Canvas menu.
+* [Piazza!](https://piazza.com/class/l2rdf3gg5n3i9) This should be your first stop for questions and announcements. 
+* [Gradescope](https://www.gradescope.com/courses/395652) is where you will submit projects. It is also available from the Canvas menu.
 * [Canvas](https://canvas.gatech.edu/) will be used for occasional announcements and disseminating the lecture videos.
 
 ### Lecture Delivery and Grading Components
@@ -61,22 +61,9 @@ Use Piazza to ask questions and seek clarifications. If you have a very specific
 
 The TA office hours will be announced very soon, along with the location, in a pinned post on Piazza. Hope you know where the 3630 Lab is (that's right, we have a lab just for 3630!) - in the basement of the College of Computing building. We have some really cool fairy lights and a large television screen. Do come for our TA hours and get all your doubts clarified! 
 
-* Rachit Bhargava
-* Bikram Boote
-* Ishan Chadha
-* Jerred Chen
-* Youssef Elmougy
-* Abhinav Gupta
-* Asha Gutlapalli
-* Abhineet Jain
-* Zhen Jiang
-* Lixing Liu
-* Vivek Mallampati
-* Junyan Mao
-* Andrew Messing
-* Adam Patni
-* Maya Rajan
-* John Yi
+* Varun Agrawal
+* Zhaodong Yang
+* Sarthak Behl
 
 ### Acknowledgements
 The materials from this class rely significantly on slides prepared by other instructors. Each slide set and assignment contains acknowledgements. Feel free to use these slides for academic or research purposes, but please maintain all acknowledgements.

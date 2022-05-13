@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Introduction to Perception and Robotics
-email: frank.dellaert@cc.gatech.edu
+email: gchen328@gatech.edu
 # description: >- # this means to ignore newlines until "baseurl:"
 #   GTSAM is a BSD-licensed C++ library that implements sensor fusion for robotics and computer vision using factor graphs.
 # baseurl: "" # the subpath of your site, e.g. /blog
