@@ -3,21 +3,25 @@ layout: vertical
 title: Schedule
 ---
 
+# TENTATIVE SCHEDULE
+
+THINGS ARE VERY LIKELY TO SHIFT AROUND - I'LL UPDATE THE SCHEDULE AS THINGS CHANGE, BUT KEEP AN EYE OUT ON PIAZZA AND EMAIL TOO.
+
 <!--table border="1"-->
 <table>
   <thead>
     <tr>
-      <td><strong>Date</strong></td>
+      <td><strong>Date&nbsp;&nbsp;</strong></td>
       <td><strong>Module</strong></td>
       <td><strong>Topic</strong></td>
-      <td><strong>Reading</strong></td>
+      <td><strong>Reading&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></td>
       <td><strong>Quizzes</strong></td>
       <td><strong>Projects</strong></td>
     </tr>
   </thead>
   <tbody>
-    {% for item in site.data.22S-3630-Schedule %}
-    <tr>
+    {% for item in site.data.22Summer-3630-Schedule %}
+    <tr style="font-size: 10pt">
       <td>{{item.Month}} {{item.Date}}</td>
       <td>{{item.Module}}</td>
       <td>{{item.Topic}}</td>
