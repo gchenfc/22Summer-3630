@@ -13,5 +13,5 @@ This should be a fun project!
     1. `Download` -> `Download .ipynb`
     2. Rename to `project3.ipynb`
     3. Upload to gradescope
-* pptx Report (tbd)
+* [pptx Report download](project3_report.pptx)
   * Submission: Save as pdf and upload to gradescope
